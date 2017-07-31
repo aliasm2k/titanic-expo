@@ -1,0 +1,3 @@
+*.pyc
+.ipynp_checkpoints/
+requirements-to-freeze.txt
